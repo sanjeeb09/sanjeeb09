@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/sanjeebsahoo09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="22" alt="linkedin logo"  />
   </a>
-  <a href="sanjeeb776@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="22" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/sanjeeb_09/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="22" alt="instagram logo"  />
   </a>
